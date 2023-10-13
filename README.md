@@ -20,7 +20,7 @@ The application continues to run until the user chooses to quit.
 Please note that this is a console-based application and requires user interaction for data input.
 
 ## How to Run
-To run this program, you need to have Java installed on your machine. Open your terminal/command prompt, navigate to the directory containing the Tester.java file, and compile the program using the javac Tester.java command. Then, run the program using the java Tester command.
+To run this program, you need to have Java installed on your machine. Open your terminal/command prompt, navigate to the directory containing the ```Tester.java``` file, and compile the program using the ```javac Tester.java``` command. Then, run the program using the java Tester command.
 Please replace <input> with your actual input in the following examples:
 ```
 Enter 10 Bus Company information:
